@@ -1,0 +1,17 @@
+# Build Folders
+bin/
+obj/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.vscode/
+
+# NuGet
+*.nupkg
+packages/
